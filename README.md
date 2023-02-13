@@ -7,25 +7,25 @@
 # Disclaimer: Everything is SLOW. Meaning, cant play YT videos, animations are laggy AF, Spotify is working great tho and Discord keeps disconnecting after joining voice channel.
 
 My HW is:
-Ryzen 5 2600
-Aorus B450M
-nVidia RTX 3070ti
-32GB 2311 MHz Viper Gaming RAM
+Ryzen 5 2600 <br />
+Aorus B450M <br />
+nVidia RTX 3070ti <br />
+32GB 2311 MHz Viper Gaming RAM <br />
 
 # Working:
-Sound - only speakers
-Ethernet
-Mouse + Keyboard
-iCloud
+Sound - only speakers <br />
+Ethernet <br />
+Mouse + Keyboard <br />
+iCloud <br />
 
 # Not Working(there might be more)
-Multiple monitors - WIP
-Microphone - WIP
+Multiple monitors - WIP <br />
+Microphone - WIP <br />
 
 Feel free to use the EFI, but if you do so, please give me some credit.
 
 
 # Credits:
 
-https://dortania.github.io/OpenCore-Install-Guide/
+https://dortania.github.io/OpenCore-Install-Guide/ <br />
 https://github.com/sileshn/Ryzentosh
