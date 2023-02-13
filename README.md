@@ -6,7 +6,7 @@
 
 # Disclaimer: Everything is SLOW. Meaning, cant play YT videos, animations are laggy AF, Spotify is working great tho and Discord keeps disconnecting after joining voice channel.
 
-My HW is:
+My HW is: <br />
 Ryzen 5 2600 <br />
 Aorus B450M <br />
 nVidia RTX 3070ti <br />
