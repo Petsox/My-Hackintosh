@@ -17,6 +17,8 @@ Sound - only speakers <br />
 Ethernet <br />
 Mouse + Keyboard <br />
 iCloud <br />
+Apple ID <br />
+App Store <br />
 
 # Not Working(there might be more):
 Multiple monitors - WIP <br />
