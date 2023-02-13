@@ -1,4 +1,4 @@
-# My-Ryzentosh
+# My-Hackintosh
 
 ![reh4](https://user-images.githubusercontent.com/92917981/218565255-c50436b4-7f7b-457f-8467-31b82e019425.png)
 
