@@ -18,9 +18,29 @@ Ethernet <br />
 Mouse + Keyboard <br />
 iCloud <br />
 
-# Not Working(there might be more)
+# Not Working(there might be more):
 Multiple monitors - WIP <br />
 Microphone - WIP <br />
+
+# Drivers:
+
+CrScreenshotDxe.efi <br />
+HfsPlus.efi  <br />
+OpenCanopy.efi  <br />
+OpenNtfsDxe.efi <br />
+OpenRuntime.efi <br />
+ResetNvramEntry.efi <br />
+ToggleSipEntry.efi <br />
+
+# Kexts:
+AppleALC.kext <br />
+AppleMCEReporterDisabler.kext <br />
+Lilu.kext  <br />
+NVMeFix.kext  <br />
+RealtekRTL8111.kext  <br />
+RestrictEvents.kext  <br />
+VirtualSMC.kext  <br />
+WhateverGreen.kext  <br />
 
 Feel free to use the EFI, but if you do so, please give me some credit.
 
