@@ -2,7 +2,7 @@
 
 ![reh4](https://user-images.githubusercontent.com/92917981/218565255-c50436b4-7f7b-457f-8467-31b82e019425.png)
 
-# Running macOS Ventura 13.2.1
+# Running macOS Ventura 13.2
 
 # Disclaimer: Everything is SLOW. Meaning, cant play YT videos, animations are laggy AF, Spotify is working great tho and Discord keeps disconnecting after joining voice channel.
 
