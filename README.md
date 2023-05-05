@@ -21,7 +21,7 @@ Apple ID <br />
 App Store <br />
 
 # Not Working(there might be more):
-Multiple monitors - WIP <br />
+Multiple monitors (Wont work because Nvidia drivers dont exist for anything newer that Pascal) <br />
 Microphone - WIP <br />
 
 # Drivers:
